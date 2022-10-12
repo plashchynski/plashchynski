@@ -1,4 +1,4 @@
-👋 Hi, I’m @plashchynski
+👋 Hi, my name is Dzmitry Plashchynski.
 
 I'm a software engineer with more than 15 years of commercial experience mainly in web development.
 
